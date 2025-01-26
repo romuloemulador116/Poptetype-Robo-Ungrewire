@@ -1,0 +1,6 @@
+[crensech]
+@ECHO OFF
+command:\cd~%coocker\idset: h:\diskpart_\setup\win~spool\res\setcontrol\widset=format(seting)filename\grid\users\imsgr:shutdown -i :h=HCPG:\memory]
+kernel:\home\frondata\house\shell\sintact\fronpage\enenge\task\res\dir%program files%cursor\send_out\set\gadget\interes\weve\config\spool\setcontrol\geting\corrent\prog\res\seting\shourtcut\windata\program files\suport\felesApps\program\users\Administrador\eleuch=setup\registre\update=Apps
+ Token_Chetstring:\Coint\Prescrition\LocalEcrys~Hrcgf:h/hsm~Dir*.pkg%packager%Vigent-Nidpack=Assistent(session)*.Houp\doc\LocalMachine\circuit\correntcontrolset\setcontrol\cd~%res%search%corret\Arquivo_Vision-Cervice%Center%Cache(true) Vetor=Protocol(chartboot)Ping-get=Content-street=registre(true)LacterCenter(fause) Edeger=Shist_Backup(true) Trev=Update_(true) Manch(dir)LocalRender=File&Program Catch=respiwer\Cheats=Micromede\domain=Acont\Vigent=Suport\Users=Adoin_FileApp
+Mass:\chouther=Userbreack\*. imsgr=crismaker~systreep\vedecrech\camp\dir\apendir\house\comon\couthers\propieters\localhost\fisic=sheats\regedit\%sapwadir%showdon%sys^*?8A-/C@pp.cripton~%dir%<#ur/set/seaget=shourtcut/cloudfinder=setcontrol-_messager_^pigment=primary/setlog/engine/asept/fast/sms*cgm.cc:-shutdown -j /f-shekdisk="blocked"/copy/y~script!>/eject/gersetpause=command"~]%\scan-get = STOP:A~Z\temp~Appdata\Add
